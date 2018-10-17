@@ -3,7 +3,8 @@
 
 #include <boost/thread/mutex.hpp>
 
-#include <ros/macros.h>
+//#include <ros/macros.h>
+#include <rcl/macros.h>
 
 // Import/export for windows dll's and visibility for gcc shared libraries.
 
